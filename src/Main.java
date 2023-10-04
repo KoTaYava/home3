@@ -87,9 +87,9 @@ public class Main {
         float razMaha = godNew - godMaha;
         float razDen = godNew1 - godDenis;
         float razKris = godNew2 - godKris;
-        System.out.println("Маша теперь получает " + newMaha + " рублей. Годовой доход вырос на " + razMaha + " рублей");
-        System.out.println("Денис теперь получает " + newDenis + " рублей. Годовой доход вырос на " + razDen + " рублей");
-        System.out.println("Кристина теперь получает " + newKris + " рублей. Годовой доход вырос на " + razKris + " рублей");
+        System.out.println("Маша теперь получает " + newMaha + " рублей. Годовой доход вырос на " + razMaha + " рублей!");
+        System.out.println("Денис теперь получает " + newDenis + " рублей. Годовой доход вырос на " + razDen + " рублей!");
+        System.out.println("Кристина теперь получает " + newKris + " рублей. Годовой доход вырос на " + razKris + " рублей!");
 
 
 
